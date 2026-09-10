@@ -1,7 +1,3 @@
-# seasonal-agriculture-performance-analysis
-
-Python-based agricultural data analysis project that studies crop performance, seasonal trends, irrigation methods, environmental conditions, resource usage, profitability, and agricultural performance across different states and districts using Pandas, NumPy, Matplotlib, and Seaborn.
-
 # 🌾 Seasonal Agriculture Performance Analysis
 
 A Python-based **Exploratory Data Analysis (EDA)** project that studies agricultural data to understand how crops perform under different seasons, irrigation methods, environmental conditions, farming practices, and regions.
